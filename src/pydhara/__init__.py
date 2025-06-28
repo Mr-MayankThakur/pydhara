@@ -1,2 +1,1 @@
-def hello() -> str:
-    return "Hello from pydhara!"
+from pydhara.core.common import *
