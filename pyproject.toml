@@ -6,6 +6,7 @@ readme = "README.md"
 authors = [
     { name = "Mayank Thakur", email = "mackv210w@gmail.com" }
 ]
+license = { file = "LICENSE" }
 requires-python = ">=3.12"
 dependencies = [
     "loguru>=0.7.3",
